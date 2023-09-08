@@ -1,26 +1,19 @@
-今日作業目標：
-
-    1 建立1個新的Repo
+# 今日作業目標：
+1 建立1個新的Repo
     
-    2 在該README.md上寫markdown語法（參考卡斯伯's BLOG的markdown語法）
-    參考資料：https://www.casper.tw/development/2019/11/23/ten-mins-learn-markdown/
+2 在該README.md上寫markdown語法（參考卡斯伯's BLOG的markdown語法）
 
-    3 在內容中加入bash指令操作
+參考資料：https://www.casper.tw/development/2019/11/23/ten-mins-learn-markdown/
 
-    # 標題大小
+3 在內容中加入bash指令操作
+
+# 標題大小
     總共分為六個層級，依據 HTML 的結構會轉為 <h1> ~ <h6>，形式上是在文字前方補上不同數量的 #，# 數量越少層級越高，反之則是越低，以下方結構來說 # 標題 1 是層級最高，且視覺上最大的標題。
     例：
-    /* #_標題1 */
-        #_標題1
-    /* ##_標題2 */
-        ##_標題2
-
-    # 項目2
-    # 項目3
-    # 項目4
-    # 項目5
-    # 項目6
-    # 項目7
-    # 項目8
-    # 項目9
-    # 項目10
+#_標題1
+# 標題 1 
+##_標題2
+## 標題2
+    一直到………
+######_標題6
+###### 標題6
